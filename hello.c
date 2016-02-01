@@ -7,4 +7,7 @@ sum=a+b;
 int x;
 return sum;
 }
-
+void main()
+{
+add(2,3);
+}
